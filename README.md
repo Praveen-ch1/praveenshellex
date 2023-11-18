@@ -1,0 +1,2 @@
+# praveenshellex
+shell scripting example
